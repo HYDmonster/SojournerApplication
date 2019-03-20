@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SojournerApplication</string>
+    <string name="home">主页</string>
+    <string name="friends">好友</string>
+    <string name="news">资讯</string>
+    <string name="user">我的</string>
+    <string name="record">动态</string>
+</resources>
